@@ -1,2 +1,10 @@
 # ToDo-sample-react-redux-firebase
-ToDo Application using react, redux, and firebase
+Sample on ToDo Application using : 
+    - react
+    - redux
+    - firebase.
+
+# Reference Link : 
+    https://medium.com/quick-code/how-to-integrate-react-redux-and-firebase-in-3-simple-steps-c44804a6af38
+
+
